@@ -1,0 +1,5 @@
+-Names shouldn't contain commas
+-AllAttendees.txt is an example of the format file of AllAttendees 
+-Type Peercoach or Teacher before the names that shouldn't be added (see the example file)
+-The result file will overwrite any file with the same given name.
+-The unknown file is overwritten everytime the program is runned.

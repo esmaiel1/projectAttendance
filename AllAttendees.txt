@@ -1,10 +1,5 @@
-Teacher
-Barnett, D.R.S. (Deborah)
-
-Peer Coach
-Esmaiel samy Hashish (0966759)
-
-All Students
+Teacher Barnett D.R.S. (Deborah)
+Peercoach Esmaiel samy Hashish (0966759)
 Robert Baratheon (1000001)
 Jaime Lannister (1000002)
 Catelyn Stark (1000003)
